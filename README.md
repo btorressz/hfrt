@@ -13,7 +13,7 @@ The **High-Frequency Trading Rebate Token (HFRT)** is a **Solana-based on-chain 
 - **Sybil Resistance**: Protects against wash trading and flash-loan-based **fake volume**.
 - **Governance & DAO**: HFRT holders can **vote on fee discounts** and protocol changes.
 
-## 📜 Smart Contract Overview
+## 📜 Smart Contract(Program) Overview
 
 ### **Key Accounts**
 | **Account**       | **Description** |
