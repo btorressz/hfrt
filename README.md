@@ -3,6 +3,8 @@
 
 The **High-Frequency Trading Rebate Token (HFRT)** is a **Solana-based on-chain rebate system** designed to incentivize traders, liquidity providers, and market makers. It offers **fee discounts**, **execution priority**, and **staking rewards** for high-volume traders and active liquidity providers.
 
+**devnet**:(https://explorer.solana.com/address/A86NRtxqJiyKm4da9jmA1TH1erjUG3ULcPXhS6wdyQk7?cluster=devnet)
+
 ## 🚀 Features
 
 - **Rebate System**: Traders earn HFRT tokens based on their **24-hour rolling trade volume**.
